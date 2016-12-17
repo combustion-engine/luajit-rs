@@ -1,0 +1,9 @@
+[package]
+name = "luajit-rs"
+version = "0.1.0"
+authors = ["Aaron Trent <novacrazy@gmail.com>"]
+
+[dependencies]
+
+[dependencies.luajit-sys]
+path = "../luajit-sys"
